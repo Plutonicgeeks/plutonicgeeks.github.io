@@ -84,8 +84,8 @@
 
         /*START CONTACT MAP JS*/
         var contact = {
-            "lat": "13.166388",
-            "lon": "80.302840"
+            "lat": "13.027319",
+            "lon": "80.214885"
         }; //Change a map coordinate here!
         try {
             $('.map').gmap3({
